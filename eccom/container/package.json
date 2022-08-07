@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "html-webpack-plugin": "^5.5.0",
     "nodemon": "^2.0.19",
     "webpack": "^5.68.0",
